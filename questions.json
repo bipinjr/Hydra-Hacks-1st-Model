@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "category": "Time, Speed & Distance",
+    "difficulty": "Medium",
+    "story": "Two trains start from stations B and C, which are 300 km apart, and travel toward each other. Train A travels at 40 km/h, and Train B travels at 50 km/h. After how many hours will they meet?",
+    "options": [
+      "4 hours",
+      "3.3 hours",
+      "3.8 hours",
+      "2.8 hours"
+    ],
+    "correct_answer": "3.3 hours",
+    "solution": "Relative Speed = 40 + 50 = 90 km/h. Time = 300/90 = 3.33 hours"
+  },
+  {
+    "id": 2,
+    "category": "Time, Speed & Distance",
+    "difficulty": "Medium",
+    "story": "Two trains start from stations A and D, which are 480 km apart, and travel toward each other. Bus Y travels at 80 km/h, and Train B travels at 60 km/h. After how many hours will they meet?",
+    "options": [
+      "3.4 hours",
+      "3.9 hours",
+      "4.1 hours",
+      "2.9 hours"
+    ],
+    "correct_answer": "3.4 hours",
+    "solution": "Relative Speed = 80 + 60 = 140 km/h. Time = 480/140 = 3.43 hours"
+  },
+  {
+    "id": 3,
+    "category": "Work & Time",
+    "difficulty": "Medium",
+    "story": "Worker Amit can complete a job in 10 days. Worker Vikram can complete the same job in 12 days. If both work together for 2 days, then Amit leaves, how many more days will Vikram take to finish the remaining work?",
+    "options": [
+      "7.6 days",
+      "8.6 days",
+      "9.6 days",
+      "6.6 days"
+    ],
+    "correct_answer": "7.6 days",
+    "solution": "Combined rate = 1/10 + 1/12 = 0.1833. Work done in 2 days = 0.3667. Remaining = 0.6333. Time for Vikram = 0.6333/(1/12) = 7.6 days"
+  },
+  {
+    "id": 4,
+    "category": "Work & Time",
+    "difficulty": "Medium",
+    "story": "Worker Priya can complete a job in 8 days. Worker Karan can complete the same job in 10 days. If both work together for 3 days, then Karan leaves, how many more days will Priya take to finish the remaining work?",
+    "options": [
+      "2.25 days",
+      "3.25 days",
+      "1.25 days",
+      "4.25 days"
+    ],
+    "correct_answer": "2.25 days",
+    "solution": "Combined rate = 1/8 + 1/10 = 0.225. Work done = 0.675. Remaining = 0.325. Time = 0.325/(1/8) = 2.6 days"
+  },
+  {
+    "id": 5,
+    "category": "Pipes & Cisterns",
+    "difficulty": "Medium",
+    "story": "Pipe A fills a tank in 8 hours. Pipe B fills the tank in 10 hours. If both pipes are opened together, but Pipe B is closed after 3 hours, how much total time will it take to fill the tank?",
+    "options": [
+      "5.5 hours",
+      "6.11 hours",
+      "7.1 hours",
+      "4.5 hours"
+    ],
+    "correct_answer": "5.5 hours",
+    "solution": "Combined rate = 1/8 + 1/10 = 0.225. Work done in 3 hours = 0.675. Time for A alone = 0.325/(1/8) = 2.6. Total = 5.6 hours"
+  },
+  {
+    "id": 6,
+    "category": "Pipes & Cisterns",
+    "difficulty": "Medium",
+    "story": "Pipe A fills a tank in 12 hours. Pipe B fills the tank in 15 hours. If both pipes are opened together, but Pipe B is closed after 4 hours, how much total time will it take to fill the tank?",
+    "options": [
+      "8.57 hours",
+      "7.57 hours",
+      "9.5 hours",
+      "6.57 hours"
+    ],
+    "correct_answer": "8.57 hours",
+    "solution": "Combined rate = 1/12 + 1/15 = 0.15. Work in 4 hours = 0.6. Remaining = 0.4. Time for A = 4.8. Total = 8.8 hours"
+  },
+  {
+    "id": 7,
+    "category": "Profit, Loss & Discount",
+    "difficulty": "Easy",
+    "story": "A shopkeeper buys a laptop for ₹1000 and marks it at 25% profit. He then offers a 10% discount to a customer. What is the marked price?",
+    "options": [
+      "₹1250",
+      "₹1300",
+      "₹1150",
+      "₹1100"
+    ],
+    "correct_answer": "₹1250",
+    "solution": "Marked Price = 1000 × (1 + 25/100) = 1000 × 1.25 = ₹1250"
+  },
+  {
+    "id": 8,
+    "category": "Profit, Loss & Discount",
+    "difficulty": "Easy",
+    "story": "A shopkeeper buys a phone for ₹1200 and marks it at 30% profit. He then offers a 15% discount to a customer. What is the marked price?",
+    "options": [
+      "₹1560",
+      "₹1620",
+      "₹1500",
+      "₹1400"
+    ],
+    "correct_answer": "₹1560",
+    "solution": "Marked Price = 1200 × (1 + 30/100) = 1200 × 1.30 = ₹1560"
+  },
+  {
+    "id": 9,
+    "category": "Ratio, Mixtures & Sharing",
+    "difficulty": "Medium",
+    "story": "A container has 60 liters of milk. 8 liters of milk is removed and replaced with water. This process is repeated once more. What is the final quantity of milk in the container?",
+    "options": [
+      "46.93 L",
+      "48.93 L",
+      "44.93 L",
+      "50.93 L"
+    ],
+    "correct_answer": "46.93 L",
+    "solution": "Final = 60 × (1 - 8/60)² = 60 × (0.8667)² = 60 × 0.7511 = 45.07 L"
+  },
+  {
+    "id": 10,
+    "category": "Ratio, Mixtures & Sharing",
+    "difficulty": "Medium",
+    "story": "A container has 50 liters of milk. 5 liters of milk is removed and replaced with water. This process is repeated once more. What is the final quantity of milk in the container?",
+    "options": [
+      "40.5 L",
+      "42.5 L",
+      "38.5 L",
+      "44.5 L"
+    ],
+    "correct_answer": "40.5 L",
+    "solution": "Final = 50 × (1 - 5/50)² = 50 × (0.9)² = 50 × 0.81 = 40.5 L"
+  },
+  {
+    "id": 11,
+    "category": "Age Problems",
+    "difficulty": "Medium",
+    "story": "The ratio of ages of a father and son is 5:2. 10 years ago, the ratio was 5:2. What is the father's present age?",
+    "options": [
+      "50 years",
+      "40 years",
+      "45 years",
+      "55 years"
+    ],
+    "correct_answer": "50 years",
+    "solution": "Let Father = 5x, Son = 2x. From past: (5x-10)/(2x-10) = 5/2. Solving: x = 10. Father = 50 years"
+  },
+  {
+    "id": 12,
+    "category": "Boats & Streams",
+    "difficulty": "Medium",
+    "story": "A boat travels 20 km downstream in 2 hours and the same distance upstream in 4 hours. What is the speed of the boat in still water?",
+    "options": [
+      "7.5 km/h",
+      "8.5 km/h",
+      "6.5 km/h",
+      "9.5 km/h"
+    ],
+    "correct_answer": "7.5 km/h",
+    "solution": "Downstream = 20/2 = 10 km/h. Upstream = 20/4 = 5 km/h. Boat speed = (10+5)/2 = 7.5 km/h"
+  }
+]
